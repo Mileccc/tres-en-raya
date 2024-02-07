@@ -54,7 +54,10 @@ npm run dev
 
 
 #### Añadimos confeti para la victoria
-- Instalamos la dependencia ``npm install canvas-confetti -E``
+- Instalamos la dependencia
+
+``npm install canvas-confetti -E``
+
 ![Pasted image 20240206162815](https://github.com/Mileccc/tres-en-raya/assets/121825748/d5e21793-7b81-41d2-8726-fc944c4ca1c7)
 
 ![Pasted image 20240206163041](https://github.com/Mileccc/tres-en-raya/assets/121825748/398a946d-751f-4297-91a7-87c0cf4d71a8)
