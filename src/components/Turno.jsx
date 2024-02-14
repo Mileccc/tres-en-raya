@@ -1,3 +1,5 @@
+/* eslint-disable react/prop-types */
+
 import { TURNS } from "../constants"
 import { Square } from "./Square"
 
